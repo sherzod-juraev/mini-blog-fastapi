@@ -81,4 +81,8 @@ alembic upgrade head
 uvicorn app.main:app --reload
 py main.py
 ```
-## The API will be available at: http://127.0.0.1:8000
+## The API will be available at: 
+```bash
+
+http://127.0.0.1:8000
+```
